@@ -1,1 +1,1 @@
-console.log('tes2');
+console.log('tes2, ditambahkan fixed bug');
